@@ -5,7 +5,6 @@
 
 # 👋 Hi, I'm Asif Ali Siddiqui
 
-# 👋 Hi, I'm Asif Ali Siddiqui
 
 ### 🎓 MCA Student | 💻 Full Stack Developer | 🤖 AI Enthusiast | ☁️ Cloud Learner
 
