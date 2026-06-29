@@ -1,6 +1,10 @@
-HI  I Am Asifali Siddiqui..
+HI  I Am Asifali Siddiqui..👋
 
-pimpri chinchwad college of Engineering...
+
+
+College :-Pimpri chinchwad college of Engineering...
+Education:-Masters of Computer Application(MCA)...
+
 
 
 ## 🌐 Socials:
