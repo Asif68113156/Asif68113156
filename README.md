@@ -80,14 +80,12 @@ class AsifAli {
 
 # 🚀 Featured Projects
 
-⭐ AI Digital Twin of College Campus
 
-⭐ Real-Time Chat Application
+⭐ Accessibility Friction rader 
 
-⭐ E-Commerce Website
+⭐ Deadlock kernal detection 
 
-⭐ College Management System
-
+⭐ Mobile shopping website 
 ---
 
 # 📊 GitHub Analytics
