@@ -1,3 +1,7 @@
+HI  I Am Asifali Siddiqui..
+
+pimpri chinchwad college of Engineering...
+
 
 ## 🌐 Socials:
 [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:sasifali363@gmail.com) 
